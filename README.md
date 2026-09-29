@@ -12,6 +12,8 @@
 
 ![Tela inicial do DROPTRACE](assets/droptrace-home.png)
 
+![Replay tático do DROPTRACE](assets/droptrace-replay.png)
+
 ## English
 
 DROPTRACE is a PUBG match-analysis web application. Enter a nickname and platform to browse recent matches and reconstruct official telemetry on an interactive tactical map. Visitors do not need a PUBG Developer Portal account or their own API key.
@@ -54,8 +56,6 @@ O DROPTRACE é uma aplicação web de análise de partidas do PUBG. Basta inform
 - calendário de torneios do PUBG Esports;
 - mapas de calor de quedas, eliminações e encerramentos de partida;
 - interface em português, inglês e espanhol.
-
-![Replay tático do DROPTRACE](assets/droptrace-replay.png)
 
 ### Origem e interpretação dos dados
 
